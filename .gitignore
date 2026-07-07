@@ -14,3 +14,7 @@ db_users.db
 # Arquivos de configuração de IDEs
 .vscode/
 .idea/
+
+# Pastas de versionamento antigo
+versao_1/
+versao_2/
