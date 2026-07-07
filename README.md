@@ -1,4 +1,3 @@
-```markdown
 # HealCare - Sistema de Autenticação Clínica
 
 O HealCare é um sistema desktop para registro e autenticação de usuários do sistema de uma clínica fictícia. Desenvolvido em Python, o projeto simula a camada inicial de controle de acesso da plataforma, garantindo a segurança dos dados sensíveis desde o momento do login.
@@ -77,5 +76,4 @@ pip install -r requirements.txt
 
 ```bash
 python App_Tela_Login.py
-```
 ```
