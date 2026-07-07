@@ -64,7 +64,7 @@ source .venv/bin/activate```
 Com o ambiente .venv ativo no seu terminal, instale todas as bibliotecas necessárias:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt``` 
 
 ### 4. Iniciar o Sistema
 ```bash
