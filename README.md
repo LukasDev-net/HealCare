@@ -64,8 +64,20 @@ source .venv/bin/activate```
 Com o ambiente .venv ativo no seu terminal, instale todas as bibliotecas necessárias:
 
 ```bash
+<<<<<<< HEAD
 pip install -r requirements.txt``` 
 
 ### 4. Iniciar o Sistema
 ```bash
 python App_Tela.py``` 
+=======
+pip install -r requirements.txt```
+
+### 4. Iniciar o Sistema
+```bash
+<<<<<<<< HEAD:README.md.txt
+python App_Tela.py``` 
+========
+python App_Tela.py 
+>>>>>>>> e4cda6917e2ee30fe85d5f01c8142703e7e0b66e:README.md
+>>>>>>> e4cda6917e2ee30fe85d5f01c8142703e7e0b66e
